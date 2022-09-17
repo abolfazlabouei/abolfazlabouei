@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/abolfazlabouei?logo=github&style=fo
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-abouei-2a8242182/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aab.abouei@gmail.com.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/abolfazlabouei)
+[![Github](https://img.shields.io/github/followers/abolfazlabouei?label=Follow&style=social)](https://github.com/abolfazlabouei)
 
 - 👨🏻‍💻  I'm a Computer Engineering (Softwear) Student
 - 💻  I’m currently learning machine learning.
