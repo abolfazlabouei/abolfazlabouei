@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abolfazl Abouei 👋</h1>
-<h3 align="center">Software Engineering Student · Machine Learning & Graph Neural Networks · LLM Applications</h3>
+<h3 align="center">AI/ML Engineer · AI Agents · Explainable AI · MLOps · Graph Neural Networks</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abolfazl-abouei-2a8242182"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -12,12 +12,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Computer Engineering (Software) student based in Yazd, Iran, focused on **machine learning on graphs** and **building practical LLM-powered applications**.
+I'm an AI/ML engineer based in Yazd, Iran, with a background in Computer Engineering (Software). I work on **AI agents**, **explainable AI (XAI)**, **MLOps**, and **machine learning on graphs**.
 
-- 🔬 **Research interests:** Graph Neural Networks (GAT/GATv2, dynamic GNNs), community detection, complex networks, explainable AI
-- 🤖 **Building:** RAG pipelines, GraphRAG, agentic chatbots with LangGraph, and MCP servers
-- ⚙️ **Engineering:** backend services with FastAPI & Django, data pipelines, and Telegram bots
-- 🌱 **Currently learning:** advanced deep learning and production ML (MLOps)
+- 🤖 **AI Agents:** agentic systems with LangGraph, MCP servers, RAG & GraphRAG pipelines
+- 🔍 **Explainable AI:** interpretable models and explanations for GNNs and deep learning
+- 🚀 **MLOps:** taking models to production — serving, containerization, monitoring, and reproducible pipelines
+- 🕸️ **Graphs:** Graph Neural Networks (GAT/GATv2, dynamic GNNs), community detection, complex networks
+- ⚙️ **Backend:** APIs and services with FastAPI & Django
 - 📫 **Reach me:** [aab.abouei@gmail.com](mailto:aab.abouei@gmail.com)
 
 ---
@@ -28,8 +29,10 @@ I'm a Computer Engineering (Software) student based in Yazd, Iran, focused on **
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,fastapi,django,postgres,docker,linux,git,java,scala&theme=dark" alt="Tech stack"/>
 </p>
 
-- **ML / AI:** PyTorch · PyTorch Geometric · scikit-learn · NetworkX · LangChain · LangGraph · RAG
-- **Backend:** FastAPI · Django · REST APIs · MCP (FastMCP)
+- **ML / AI:** PyTorch · PyTorch Geometric · scikit-learn · NetworkX · SHAP / GNNExplainer
+- **Agents & LLMs:** LangChain · LangGraph · MCP · RAG · GraphRAG
+- **MLOps:** Docker · FastAPI model serving · monitoring · Git
+- **Backend:** FastAPI · Django · REST APIs · PostgreSQL
 - **Data:** Pandas · Scrapy · Big Data tooling · Jupyter
 
 ---
@@ -60,4 +63,4 @@ I'm a Computer Engineering (Software) student based in Yazd, Iran, focused on **
 
 ---
 
-<p align="center"><i>Open to research collaborations and ML / backend opportunities — feel free to reach out!</i></p>
+<p align="center"><i>Open to collaborations and opportunities in AI agents, XAI, MLOps, and graph ML — feel free to reach out!</i></p>
