@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Abolfazl Abouei 👋</h1>
-<h3 align="center">AI/ML Engineer · AI Agents · Explainable AI · MLOps · Graph Neural Networks</h3>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Abolfazl Abouei — Graphs, Complex Networks, GNNs" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abolfazl-abouei-2a8242182"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
