@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Abolfazl Abouei — Graphs, Complex Networks, GNNs" width="100%"/>
+  <img src="./assets/banner.jpg" alt="Graphs and complex networks in AI for healthcare" width="100%"/>
 </p>
 
 <p align="center">
