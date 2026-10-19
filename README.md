@@ -27,13 +27,13 @@ I'm an AI/ML engineer based in Yazd, Iran, with a background in Computer Enginee
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,fastapi,django,postgres,docker,linux,git,java,scala&theme=dark" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker,linux,git&theme=dark" alt="Tech stack"/>
 </p>
 
 - **ML / AI:** PyTorch · PyTorch Geometric · scikit-learn · NetworkX · SHAP / GNNExplainer
 - **Agents & LLMs:** LangChain · LangGraph · MCP · RAG · GraphRAG
 - **MLOps:** Docker · FastAPI model serving · monitoring · Git
-- **Backend:** FastAPI · Django · REST APIs · PostgreSQL
+- **Backend:** FastAPI · REST APIs · PostgreSQL
 - **Data:** Pandas · Scrapy · Big Data tooling · Jupyter
 
 ---
